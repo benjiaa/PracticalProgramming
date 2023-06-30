@@ -7,6 +7,6 @@ To get started, you'll make a codespace with this repo!
 
 When you want to save your progress, you can run the following commands from the *project's root directory, /PracticalProgramming.*
 
-`git add *`\n
-`git commit -m "your commit message here"`\n
-`git push origin main`\n
+`git add *`  
+`git commit -m "your commit message here"`  
+`git push origin main`  
