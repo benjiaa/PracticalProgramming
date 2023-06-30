@@ -5,7 +5,7 @@ Infomration on the python library we'll use can be found here: https://openpyxl.
 
 To get started, you'll make a codespace with this repo!
 
-When you want to save your progress, you can run the following commands from the *project's root directory, /PracticalProgramming.*
+When you want to save your progress, you can run the following commands from the *project's root directory, /PracticalProgramming*
 
 `git add *`  
 `git commit -m "your commit message here"`  
