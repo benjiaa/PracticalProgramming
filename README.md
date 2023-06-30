@@ -1,5 +1,5 @@
 # PracticalProgramming
-Simple codespace repo for python3 teaching
+Simple github repository for keeping track of all of our practical programming files! Intended to be used w/ codespaces.
 
 Infomration on the python library we'll use can be found [here](https://openpyxl.readthedocs.io/en/stable/).
 
